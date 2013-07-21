@@ -1,0 +1,22 @@
+x11-libs/gtk+ -colord
+x11-libs/colord -gtk
+x11-libs/libdrm libkms
+media-libs/mesa xa
+gnome-base/gnome-menus python
+dev-lang/python sqlite*
+media-libs/gd fontconfig
+dev-libs/boost python
+media-libs/mesa xcb
+x11-libs/libX11 xcb
+x11-libs/cairo xcb svg
+x11-wm/compiz-fusion emerald
+x11-libs/qt-webkit icu
+media-libs/gd fontconfig
+dev-libs/libxml2 icu
+media-libs/mesa xcb
+x11-libs/libX11 xcb
+x11-libs/cairo xcb svg
+x11-wm/compiz-fusion emerald
+dev-lang/ruby threads
+sys-auth/polkit consolekit
+
